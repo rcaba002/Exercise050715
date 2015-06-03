@@ -1,0 +1,6 @@
+C:\Work\Claim\Exercise050715\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Work\Claim\Exercise050715\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Work\Claim\Exercise050715\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Work\Claim\Exercise050715\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Exercise050715\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Work\Claim\Exercise050715\Polymorphism\obj\Debug\Polymorphism.pdb
